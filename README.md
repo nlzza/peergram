@@ -1,16 +1,5 @@
-# peergram
+# Peergram
 
-A new Flutter project.
+This project was made as part of our course, "Computer Networks" in sixth semester. This application was made using Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Peergram is a chat application where users can communicate directly using the peer-to-peer approach. The users will first register through Google Login service. Whenever the app is opened, a new TCP socket is opened for listening connections. The users can chat with friends on a home screen sending text messages as well as images. They can also search and add more friends. In case the user goes offline, other peers are notified and not allowed to send messages.
