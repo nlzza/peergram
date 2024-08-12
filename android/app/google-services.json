@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "698387044105",
+    "firebase_url": "https://chat-application-885bd-default-rtdb.firebaseio.com",
+    "project_id": "chat-application-885bd",
+    "storage_bucket": "chat-application-885bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698387044105:android:396eb4051bd1dbc66a25d8",
+        "android_client_info": {
+          "package_name": "com.example.chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698387044105-499t5nh46tu64k5at04t3nomjvmo96o3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_application",
+            "certificate_hash": "928ee65784df62531efeb526081ab1422e6d004c"
+          }
+        },
+        {
+          "client_id": "698387044105-fc4v4epb77gqvbpfruo9jsie2iugklor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmAas6nGAp4muUlLwvQ6d-pGdl0UA3M1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698387044105-fc4v4epb77gqvbpfruo9jsie2iugklor.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698387044105-bq8lhqdpv3atgn9q5iapif6v98optlbo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.peergram"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698387044105:android:f06eb73397cbaa346a25d8",
+        "android_client_info": {
+          "package_name": "com.example.peergram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698387044105-fh78lep2d0sc87ilunepd8l305iuk63c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peergram",
+            "certificate_hash": "abc4e23db14a16ef7516d8eea41169bbe181ef62"
+          }
+        },
+        {
+          "client_id": "698387044105-fc4v4epb77gqvbpfruo9jsie2iugklor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmAas6nGAp4muUlLwvQ6d-pGdl0UA3M1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698387044105-fc4v4epb77gqvbpfruo9jsie2iugklor.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698387044105-bq8lhqdpv3atgn9q5iapif6v98optlbo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.peergram"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698387044105:android:dcaff0d891c59b5d6a25d8",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698387044105-h7e9m0h6ov8dg85nikqi4nju63tcek84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todo",
+            "certificate_hash": "928ee65784df62531efeb526081ab1422e6d004c"
+          }
+        },
+        {
+          "client_id": "698387044105-fc4v4epb77gqvbpfruo9jsie2iugklor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmAas6nGAp4muUlLwvQ6d-pGdl0UA3M1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698387044105-fc4v4epb77gqvbpfruo9jsie2iugklor.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698387044105-bq8lhqdpv3atgn9q5iapif6v98optlbo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.peergram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
